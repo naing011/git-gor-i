@@ -1,1 +1,4 @@
-console.log("Hello Git Bas");
+function show(){
+   alert("Ha Ha");
+
+}
